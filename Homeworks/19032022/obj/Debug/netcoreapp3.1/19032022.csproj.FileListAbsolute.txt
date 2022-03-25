@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.genruntimeconfig.cache
