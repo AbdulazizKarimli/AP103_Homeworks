@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\CodeAcademy\\Work\\AzTU\\AP103\\C#\\HomeWorks\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj": {}
+    "C:\\Users\\HP\\Desktop\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\CodeAcademy\\Work\\AzTU\\AP103\\C#\\HomeWorks\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj": {
+    "C:\\Users\\HP\\Desktop\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\CodeAcademy\\Work\\AzTU\\AP103\\C#\\HomeWorks\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj",
         "projectName": "19032022",
-        "projectPath": "D:\\Programming\\CodeAcademy\\Work\\AzTU\\AP103\\C#\\HomeWorks\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\AP103_Homeworks\\Homeworks\\19032022\\19032022.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\CodeAcademy\\Work\\AzTU\\AP103\\C#\\HomeWorks\\AP103_Homeworks\\Homeworks\\19032022\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\AP103_Homeworks\\Homeworks\\19032022\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

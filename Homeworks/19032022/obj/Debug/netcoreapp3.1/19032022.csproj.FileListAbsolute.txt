@@ -12,3 +12,17 @@ D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homework
 D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.dll
 D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.pdb
 D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.genruntimeconfig.cache
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.exe
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.deps.json
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.runtimeconfig.json
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.runtimeconfig.dev.json
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.dll
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\bin\Debug\netcoreapp3.1\19032022.pdb
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.AssemblyInfo.cs
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.dll
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.pdb
+C:\Users\HP\Desktop\AP103_Homeworks\Homeworks\19032022\obj\Debug\netcoreapp3.1\19032022.genruntimeconfig.cache
